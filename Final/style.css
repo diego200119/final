@@ -1,0 +1,59 @@
+
+body{
+    background-color: goldenrod;
+    font-family: 'Amarante', cursive;
+}
+
+header{
+    background-color: rgba(54, 7, 7, 0.871);
+    height: 400px;
+    color: aliceblue;
+}
+.proyectos{
+    font-size: 60px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.parrafo{
+    margin: 100px;
+    position: relative;
+    bottom:70px;
+    text-align: center;
+}
+
+.cualidades{
+    text-align: center;
+}
+.textol{
+    text-align: center;
+}
+.iconouno{
+    position: relative;
+    left: 760px;
+    font-size: 40px;
+}
+.headerdos{
+    background-color: rgba(54, 7, 7, 0.871);
+    height: 470px;
+    color: aliceblue;
+    text-align: center;
+}
+.header3{
+    background-color: rgba(54, 7, 7, 0.871);
+    height: 350px;
+    color: aliceblue;
+}
+footer{
+    background-color: rgba(54, 7, 7, 0.871);
+    height: 40px;
+}
+.ultimo{
+    font-size: 20px;
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    top: 5px;
+    
+}
